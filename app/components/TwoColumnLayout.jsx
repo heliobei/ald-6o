@@ -81,19 +81,19 @@ const TwoColumnLayout = () => {
                 <p className="font-bold mb-4 px-8">
                   Como Educador:<br />
                   <span className="bg-slate-200 rounded-md px-2 font-normal text-sm dark:text-black dark:bg-slate-300">
-                    paulo.20000000012@eb.foredu.com.br
+                  pedro.dias@eb.foredu.com.br
                   </span>
                 </p>
                 <p className="font-bold mb-4 px-8">
                   Como Estudante:<br />
                   <span className="bg-slate-200 rounded-md px-2 font-normal text-sm dark:text-black dark:bg-slate-300">
-                    ariela.dias@aluno.eb.foredu.com.br
+                  atilde.lima@aluno.eb.foredu.com.br
                   </span>
                 </p>
                 <p className="font-bold mb-4 px-8">
                   Como Gestor:<br />
                   <span className="bg-slate-200 rounded-md px-2 font-normal text-sm dark:text-black dark:bg-slate-300">
-                    patricia.siqueira@eb.foredu.com.br
+                  carine.dias@eb.foredu.com.br
                   </span>
                 </p>
                 <p className="font-bold mb-4 px-8">
